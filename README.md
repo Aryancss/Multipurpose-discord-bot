@@ -1,31 +1,6 @@
 # INFO 2025
 
-This is an old project, from 2021-2023 it was activly developed and extended throughout yt-streams.
-That's why the repository is kinda a mess
-Now I'm attempting of running some sort of clean up.
-
-To install use:
-```
-npm install --force
-```
-
-It's important to install with npm via nodejs due to node-gyp.
-You can still use bun/deno/etc. for executing scripts or running the bot.
-
-
-Changes:
-
-in `botconfig/emojis.json` you can find a json with all emojis, you can use both custom and normal emojis
-
-The errors related to ids are wrong, tho they were right are fixed, cause now there is a utility function for that.
-
-Report errors with a new ISSUE TICKET by writing 2025 into it!
-
-ATTENTION:
-
-There are apis like memer-api which aren't online anymore.. Sadly
-
----
+Check the [new_2025](https://github.com/Tomato6966/Multipurpose-discord-bot/tree/new_2025) branch for a 2025 working version!
 
 # Public Bot and Support Server!
 
