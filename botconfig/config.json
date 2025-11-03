@@ -11,7 +11,7 @@
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
         "text2": "By: discord.gg/dcdev",
         "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "url": "https://www.instagram.com/dev.versee"
     },
     "clientsettings": {
         "nodes": [
